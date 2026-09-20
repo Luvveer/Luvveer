@@ -1,25 +1,24 @@
 # Hi, I'm Luvveer Singh Lamba
 
-I'm a software developer and Computing Science student at Simon Fraser University. I build backend systems and cloud infrastructure, with a focus on DevOps, cybersecurity, and applied AI.
+I'm studying Computing Science at Simon Fraser University and building software around backend systems, cloud infrastructure, security, and applied AI.
 
-My recent work includes running assessment workloads on Kubernetes, managing infrastructure across AWS and GCP, and building deployment pipelines with Terraform, Ansible, Docker, and GitHub Actions. I enjoy tracing how systems behave under failure and making them easier to deploy, secure, and debug.
+I like the parts of engineering that become visible when something breaks. Lately, that has meant running assessment workloads on Kubernetes, managing AWS and GCP infrastructure, tracing production failures, and tightening deployment and security controls. I use Terraform, Ansible, Docker, and GitHub Actions to keep that work repeatable.
 
-## Selected projects
+## Selected work
 
-- **[ResQPlate](https://github.com/Luvveer/resqplate)** — A full-stack food redistribution platform built with TypeScript, Fastify, React, PostgreSQL, and cloud infrastructure managed through Terraform and Ansible.
-- **[AI Security Operations Platform](https://github.com/Luvveer/ai-security-operations-platform)** — A FastAPI and PostgreSQL backend for security-event processing, risk scoring, audit logs, and analyst-approved response recommendations.
-- **[Perturbation Flakiness Testing](https://github.com/Luvveer/Perturbation-Flakiness-Testing)** — A Python and Docker prototype that uncovers flaky tests by changing their execution conditions.
-- **[TCP Group Chat Fuzzer](https://github.com/Luvveer/Tcp-Group-Chat-Fuzzer)** — A multiclient chat server and fuzzing clients written in C with POSIX sockets, threads, and a custom binary protocol.
-- **[Multithreaded MapReduce](https://github.com/Luvveer/Multithreaded-Mapreduce)** — A MapReduce framework in C with parallel workers, synchronized aggregation, deterministic partitioning, and correctness tests.
+- [ResQPlate](https://github.com/Luvveer/resqplate) is a food redistribution platform built with TypeScript, Fastify, React, and PostgreSQL. I also worked on its infrastructure and deployment tooling.
+- [AI Security Operations Platform](https://github.com/Luvveer/ai-security-operations-platform) processes security events, calculates risk scores, keeps audit logs, and leaves response decisions with a human analyst.
+- [Perturbation Flakiness Testing](https://github.com/Luvveer/Perturbation-Flakiness-Testing) uses Python and Docker to expose flaky tests by changing the conditions under which they run.
+- [TCP Group Chat Fuzzer](https://github.com/Luvveer/Tcp-Group-Chat-Fuzzer) combines a multiclient chat server with fuzzing clients written in C. It uses POSIX sockets, threads, and a custom binary protocol.
+- [Multithreaded MapReduce](https://github.com/Luvveer/Multithreaded-Mapreduce) is a MapReduce framework in C with parallel workers, synchronized aggregation, deterministic partitioning, and correctness tests.
 
-## Tools I work with
+## What I work with
 
-**Languages:** TypeScript, Python, C, C++, Java, SQL, Bash  
-**Backend:** Fastify, FastAPI, PostgreSQL, Drizzle ORM, Zod  
-**Cloud and infrastructure:** AWS, GCP, Kubernetes, Terraform, Ansible, Docker, Cloudflare  
-**Delivery and operations:** GitHub Actions, Linux, Caddy, PM2, systemd, observability and incident response
+Most of my recent application work is in TypeScript and Python, using Fastify, FastAPI, PostgreSQL, Drizzle ORM, React, and Zod. For systems work, I use C and C++.
 
-## Connect
+On the infrastructure side, I work with AWS, GCP, Kubernetes, Terraform, Ansible, Docker, Cloudflare, Linux, and GitHub Actions. I also spend time on observability, incident response, and the less glamorous work of figuring out why a deployment failed.
+
+## Find me
 
 - [LinkedIn](https://www.linkedin.com/in/luvveer-singh-lamba-a78017247/)
 - [Portfolio](https://luvveer-singh-lamba-portfolio.vercel.app/)
