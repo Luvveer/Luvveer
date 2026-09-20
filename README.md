@@ -6,7 +6,7 @@ I like the parts of engineering that become visible when something breaks. Latel
 
 ## Selected work
 
-- [ResQPlate](https://github.com/Luvveer/resqplate) is a food redistribution platform built with TypeScript, Fastify, React, and PostgreSQL. I also worked on its infrastructure and deployment tooling.
+- [ResQPlate](https://github.com/Luvveer/resqplate) is a food redistribution platform built with TypeScript, Express, React, and PostgreSQL. I also worked on its infrastructure and deployment tooling.
 - [AI Security Operations Platform](https://github.com/Luvveer/ai-security-operations-platform) processes security events, calculates risk scores, keeps audit logs, and leaves response decisions with a human analyst.
 - [Perturbation Flakiness Testing](https://github.com/Luvveer/Perturbation-Flakiness-Testing) uses Python and Docker to expose flaky tests by changing the conditions under which they run.
 - [TCP Group Chat Fuzzer](https://github.com/Luvveer/Tcp-Group-Chat-Fuzzer) combines a multiclient chat server with fuzzing clients written in C. It uses POSIX sockets, threads, and a custom binary protocol.
